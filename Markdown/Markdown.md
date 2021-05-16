@@ -91,11 +91,17 @@ line2
 
 ------------------------------------------------------------------------------------------------------------------
 #### Some Other Uses  
-`* unorder list`
+```
+* unorder list1
+* unorder list2
+```  
 * item1
 * item2
 
-`1. order list`
+```
+1. order list1
+2. order list2
+```  
 1. item1
 2. item2
 
