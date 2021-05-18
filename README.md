@@ -6,5 +6,7 @@ There are some useful tools helping a programmer, such as Vim, Markdown and also
 
 ***
 
-[Note Of Markdown](https://github.com/Tenphun0503/ToolsNotes/blob/main/Markdown/Markdown.md)  
+[Note Of Markdown_English](https://github.com/Tenphun0503/ToolsNotes/blob/main/Markdown/Markdown_en.md)  
 [Note Of Git](https://github.com/Tenphun0503/ToolsNotes/blob/main/Git%26GitHub/Git.md)
+
+[Markdown 笔记_中文](https://github.com/Tenphun0503/ToolsNotes/blob/main/Markdown/Markdown_cn.md)
