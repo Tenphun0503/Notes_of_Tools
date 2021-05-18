@@ -7,4 +7,4 @@ There are some useful tools helping a programmer, such as Vim, Markdown and also
 ***
 
 [Note Of Markdown](https://github.com/Tenphun0503/ToolsNotes/blob/main/Markdown/Markdown.md)
-
+[Note Of Git](https://github.com/Tenphun0503/ToolsNotes/blob/main/Git%26GitHub/Git.md)
