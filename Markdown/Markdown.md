@@ -7,7 +7,7 @@ This Title is written as `# Markdown Syntax`
 There are six sizes of Headers `#, ##, ###, ####, #####, ######` 
 
 ----------------------------------------------------------------------------------------------------------------
-#### The Content of This Page
+#### The Content of This Page (This is a H4)
 1. [Some Common Syntax](#somecommonsytax)
 2. [Use of Table](#useoftable)
 3. [Use of Enter and Space](#useofenterandspace)
@@ -16,13 +16,12 @@ There are six sizes of Headers `#, ##, ###, ####, #####, ######`
 <div id = 'somecommonsytax'/>
 
 -----------------------------------------------------------------------------------------------------------------
-#### Some Common Syntax (This is a H4)
+#### Some Common Syntax
 |Syntax                 |Effect                 |
 |-----------------------|-----------------------|
 |`*Italic*`             |*Italic*               |
 |`**Bold**`             |**Bold**               |
 |`~Strike through~`     |~Strike thorugh~       |
-|``Code``               |`print('Hello World')` |
 |`[text](url)`          |[My main page](https://github.com/Tenphun0503)|
 |`![img](url)`          |![tingImg](https://github.com/Tenphun0503/ToolsNotes/blob/main/Markdown/tinyImg.png) Click the img|
 |`[![img](urlImg)](url)`|[![tingImg](https://github.com/Tenphun0503/ToolsNotes/blob/main/Markdown/tinyImg.png)](https://github.com/Tenphun0503) Click again,it's different|
@@ -44,11 +43,14 @@ Effect shows as above, or we can use html table
 ```
 <table>
     <tr>
-        <td>Syntax
-        <td>Effect
+        <td>Numer
+        <td>Name
     <tr>
-        <td>`*Italic*`
-        <td>*Italic*
+        <td>1
+        <td>Joe
+    <tr>
+        <td>2
+        <td>Eva
 </table>
 ```
 Effect shows as:  
@@ -110,6 +112,6 @@ line2
 
 Use  \` to insert Code  
 Use \`\`\` to insert a code block  
-Use at least three - or * to draw a line
+Use at least three `-` or `*` to draw a line
 
 --------------------------------------------------------------------------------------------------------------------
