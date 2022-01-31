@@ -1,12 +1,15 @@
 # ToolsNotes
 
-There are some useful tools helping a programmer, such as Vim, Markdown and also Git. I am learing them and taking notes here. This is the notebook for myself.During the learning of these tools, I will update this instruction with different fonts and forms.
+Notes of learning how to use some useful tools.
+Notes will be updated sometimes.
 
-有许多帮助程序员提升效率的工具，比如Vim，Markdown以及Git本身。我正在学习它们并且在这里做笔记。在学习的过程中我会不断更新这个说明文档。
+一些有用的工具的学习笔记。
+在学习的过程中我会随缘更新这些笔记。  
 
 ***
 
 [Note Of Markdown_English](https://github.com/Tenphun0503/ToolsNotes/blob/main/Markdown/Markdown_en.md)  
 [Note Of Git](https://github.com/Tenphun0503/ToolsNotes/blob/main/Git%26GitHub/Git.md)
+[Note Of Github]()
 
 [Markdown 笔记_中文](https://github.com/Tenphun0503/ToolsNotes/blob/main/Markdown/Markdown_cn.md)
