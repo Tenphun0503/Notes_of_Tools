@@ -1,10 +1,6 @@
 # ToolsNotes
 
-Notes of learning how to use some useful tools.
-Notes will be updated sometimes.
-
-一些有用的工具的学习笔记。
-在学习的过程中我会随缘更新这些笔记。  
+Notes of using useful tools.
 
 ***
 
