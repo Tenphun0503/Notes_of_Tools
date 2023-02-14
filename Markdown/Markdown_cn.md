@@ -42,27 +42,33 @@
 ```
 <table>
     <tr>
-        <th>Numer
-        <th>Name
+        <th>Number</th>
+        <th>Name</th>
+    </tr>
     <tr>
-        <td>1
-        <td>Joe
+        <td>1</td>
+        <td>Joe</td>
+    </tr>
     <tr>
-        <td>2
-        <td>Eva
+        <td>2</td>
+        <td>Eva</td>
+    </tr>
 </table>
 ```
 效果为：
 <table>
     <tr>
-        <th>Numer
-        <th>Name
+        <th>Number</th>
+        <th>Name</th>
+    </tr>
     <tr>
-        <td>1
-        <td>Joe
+        <td>1</td>
+        <td>Joe</td>
+    </tr>
     <tr>
-        <td>2
-        <td>Eva
+        <td>2</td>
+        <td>Eva</td>
+    </tr>
 </table>
 
 <div id = 'useofenterandspace'/>
