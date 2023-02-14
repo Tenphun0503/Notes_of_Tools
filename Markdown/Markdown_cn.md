@@ -42,8 +42,8 @@
 ```
 <table>
     <tr>
-        <td>Numer
-        <td>Name
+        <th>Numer
+        <th>Name
     <tr>
         <td>1
         <td>Joe
@@ -55,8 +55,8 @@
 效果为：
 <table>
     <tr>
-        <td>Numer
-        <td>Name
+        <th>Numer
+        <th>Name
     <tr>
         <td>1
         <td>Joe
