@@ -35,3 +35,9 @@ Some useful instructions of git bash on Windows 10
 `git pull`
 - update remote repository as local (after *commit*)  
 `git push`
+
+### 4. 
+If you have added some file, e.g. `.idea/` to your `.gitignore`, but git still track those files. You should remove them from cache.  
+```
+git rm -r --cached .idea
+```
